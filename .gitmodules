@@ -1,0 +1,4 @@
+[submodule "da00_chopstick_data_analysis"]
+	url = ""
+[submodule "da3_open_street_map"]
+	url = https://github.com/BarbaraJoebstl/da3_open_street_map
