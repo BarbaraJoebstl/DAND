@@ -34,3 +34,6 @@
 - Principal Component Analysis, Select KBest
 - Select and Tune a Machine Learning Algorithm
 - Evaluation Metrics
+
+## Certificate
+![cert](https://user-images.githubusercontent.com/6280553/35184031-2a4789d2-fdf0-11e7-97ff-548f8d414cf7.jpg)
