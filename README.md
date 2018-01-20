@@ -34,5 +34,3 @@
 - Principal Component Analysis, Select KBest
 - Select and Tune a Machine Learning Algorithm
 - Evaluation Metrics
-
-https://docs.google.com/viewer?url=${https://drive.google.com/open?id=1vqk7dn0t6i6eLr72wmvzHqJjs7CjB8c8}
