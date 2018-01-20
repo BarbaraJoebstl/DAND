@@ -35,5 +35,4 @@
 - Select and Tune a Machine Learning Algorithm
 - Evaluation Metrics
 
-
-![nd002.pdf](https://github.com/BarbaraJoebstl/DAND/files/1648810/nd002.pdf)
+https://docs.google.com/viewer?url=${https://drive.google.com/open?id=1vqk7dn0t6i6eLr72wmvzHqJjs7CjB8c8}
