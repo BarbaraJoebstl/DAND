@@ -36,4 +36,4 @@
 - Evaluation Metrics
 
 
-[nd002.pdf](https://github.com/BarbaraJoebstl/DAND/files/1648810/nd002.pdf)
+![nd002.pdf](https://github.com/BarbaraJoebstl/DAND/files/1648810/nd002.pdf)
